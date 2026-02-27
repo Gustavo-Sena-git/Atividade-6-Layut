@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(129, 129, 255);
+}
+/*Layout 1*/
+
+.layout{
+    width: 420px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.yo{
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(255, 255, 119);
+}
+.flex{
+    display: flex;
+}
+
+/*Layout 2*/
+
+
+.green{
+    background-color: aquamarine;
+    padding-right: 200px;
+}
+
+/*Layout 3*/
+
+.green3{
+    padding-bottom: 300px;
+}
+ .green2{
+    padding-bottom: 200px;
+ }
