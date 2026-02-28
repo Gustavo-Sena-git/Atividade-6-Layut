@@ -4,9 +4,14 @@ body{
 /*Layout 1*/
 
 .layout{
+    
     width: 420px;
     margin: 40px auto;
     padding: 20px;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+    align-items: center;
 }
 
 .yo{
@@ -32,5 +37,25 @@ body{
     padding-bottom: 300px;
 }
  .green2{
+    padding-bottom: 180px;
+ }
+
+ .green1{
+    padding-bottom: 159px;
+ }
+
+ .green4{
+    padding-bottom: 50px;
+ }
+
+ .green5{
     padding-bottom: 200px;
+ }
+
+ .green6{
+    padding-top: 40px;
+ }
+
+ .column{
+    flex-direction: column;
  }
