@@ -28,7 +28,7 @@ body{
 
 .green{
     background-color: aquamarine;
-    padding-right: 200px;
+    padding-right: 190px;
 }
 
 /*Layout 3*/
@@ -56,6 +56,14 @@ body{
     padding-top: 40px;
  }
 
- .column{
-    flex-direction: column;
+ .green7{
+    padding-right: 340px;
+ }
+
+ .red{
+    padding-left: 200px;
+ }
+
+ .center{
+    align-items: center;
  }
