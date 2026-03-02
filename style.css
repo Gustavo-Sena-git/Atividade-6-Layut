@@ -33,32 +33,12 @@ body{
 
 /*Layout 3*/
 
-.green3{
-    padding-bottom: 300px;
-}
+
  .green2{
     padding-bottom: 180px;
+    background-color: green;
  }
 
- .green1{
-    padding-bottom: 159px;
- }
-
- .green4{
-    padding-bottom: 50px;
- }
-
- .green5{
-    padding-bottom: 200px;
- }
-
- .green6{
-    padding-top: 40px;
- }
-
- .green7{
-    padding-right: 340px;
- }
 
  .red{
     padding-left: 200px;
@@ -66,4 +46,9 @@ body{
 
  .center{
     align-items: center;
+ }
+
+ .blue2{
+    padding-top: 180px;
+    background-color: rgb(3, 133, 255);
  }
